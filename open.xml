@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<remo>
+    <ble>
+        <write>
+            <service_uuid>2141e110213a11e6b67b9e71128cae77</service_uuid>
+            <characteristic_uuid>2141e111213a11e6b67b9e71128cae77</characteristic_uuid>
+            <value>0203</value>
+        </write>
+    </ble>
+</remo>
